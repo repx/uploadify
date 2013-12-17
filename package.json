@@ -10,6 +10,6 @@
     "main": "jquery.uploadify.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/farrrr/uploadify.git"
+        "url": "git://github.com/repx/uploadify.git"
     }
 }
